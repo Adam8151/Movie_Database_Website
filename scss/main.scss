@@ -1,0 +1,35 @@
+// Abstracts
+@import "abstracts/variables";
+
+// Vendors
+@import "vendors/bootstrap";
+@import "../node_modules/lightbox2/dist/css/lightbox.min.css";
+
+// Layout
+@import "layout/navigation";
+@import "layout/header";
+@import "layout/footer";
+
+// Components
+@import "components/buttons";
+@import "components/movie-card";
+@import "components/tvshow-card";
+
+// Pages
+@import "pages/login";
+@import "pages/movie";
+@import "pages/tvshow";
+
+
+// Themes
+@import "themes/theme";
+
+//Base
+@import "base/typography";
+
+nav {
+  .navbar-brand {
+    font-family: 'Bangers', cursive;}
+  ul li a i {
+    margin-right: 2px;}
+}

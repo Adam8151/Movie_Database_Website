@@ -1,0 +1,11 @@
+{
+  "name": "web-application-Adam8151",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "lightbox2": "^2.11.3"
+  }
+}

@@ -1,0 +1,17 @@
+footer{
+  p{
+    font-size:0.9rem;
+  }
+}
+footer {
+	/* position: fixed; */
+	position: relative;
+	height: 80px;
+	width: 50%;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: 0 auto;
+	padding-bottom: 0;
+	text-align: center;
+}
